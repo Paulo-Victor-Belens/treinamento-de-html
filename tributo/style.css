@@ -7,8 +7,8 @@ header{
     display: flex;
     flex-direction: column;
     align-items: center;
-    border-bottom: 2px solid #000000 ;
-    background-color: #F0E68C;
+    border-bottom: 2px solid #940404 ;
+    background-color: #7c9bdf;
 }
 .titulo{  
     font-size: 15px; 
@@ -22,9 +22,9 @@ header{
 }
 section{
     display: flex;
-    background-color: #F0E68C;
+    background-color: #7c9bdf;
     justify-content: center;
-    border: 2px solid #000000;
+    border: 2px solid #940404;
 }
 .titulo_foto{
     display: flex;
@@ -49,7 +49,7 @@ p{
 }
 .timeline{
     display: flex;
-    border: 2px solid #000000;
+    border: 2px solid #940404;
 }
 .temporadas{
     word-wrap: break-word;
