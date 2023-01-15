@@ -75,8 +75,8 @@ footer{
     width: 12px;
   }
   ::-webkit-scrollbar-track{
-    background-color: gray;
+    background-color: #7c9bdf;
   }
   ::-webkit-scrollbar-thumb{
-    background-color: rgb(199, 131, 255);
+    background-color: #940404;
   }
